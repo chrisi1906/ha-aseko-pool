@@ -1,1 +1,13 @@
-
+{
+  "domain": "aseko_pool",
+  "name": "Aseko Pool",
+  "version": "0.0.1",
+  "documentation": "https://github.com/chrisi_1997/ha-aseko-pool",
+  "issue_tracker": "https://github.com/chrisi_1997/ha-aseko-pool/issues",
+  "requirements": [],
+  "codeowners": [
+    "@chrisi_1997"
+  ],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
